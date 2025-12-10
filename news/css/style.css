@@ -1,0 +1,15 @@
+/*!
+Theme Name: v_1.0.6
+Author: ICDL
+Author URI: http://ic-design-lab.co.jp
+Description: ic-design-lab.co.jp tokyo
+Version: 1.0.4
+*/
+
+canvas.system_button_canvas {
+	display: none;
+}
+
+canvas.button_canvas {
+	display: none;
+}
